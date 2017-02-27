@@ -21,4 +21,4 @@ Following table will give the more information about uname command.
 |uname -m| Gives whether the operating system is 32 bit or 64 bit | x86_64 |
 |uname -o| Gives operating system | GNU/Linux |
 
-**Note:** ~uname --help~ command will give more information about usage of uname command.
+**Note:** `uname --help` command will give more information about usage of uname command.
