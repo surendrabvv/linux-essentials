@@ -1,1 +1,1 @@
-Don't be scary! Start learning basic things on how to work on a linux machine.
+Scared about Linux, then start learning.
